@@ -1,0 +1,30 @@
+{
+	"CONTROLS" : 
+	[
+		{
+			"DEFAULT" : 1,
+			"DESCRIPTION" : "",
+			"MAX" : 9,
+			"MIN" : 0.1,
+			"NAME" : "R",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 5,
+			"DESCRIPTION" : "",
+			"MAX" : 1,
+			"MIN" : 0.1,
+			"NAME" : "grid",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		}
+	],
+	"CREDIT" : "by crackhouse",
+	"DESCRIPTION" : "",
+	"GPU" : 0,
+	"HEIGHT" : 1080,
+	"IMAGE_PATH" : "rgb_mandlish.png",
+	"TITLE" : "RGBMandlish",
+	"WIDTH" : 1920
+}

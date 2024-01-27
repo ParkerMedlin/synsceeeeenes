@@ -1,0 +1,84 @@
+{
+	"CONTROLS" : 
+	[
+		{
+			"DEFAULT" : 0.3,
+			"DESCRIPTION" : "",
+			"MAX" : 0.999,
+			"MIN" : 0.001,
+			"NAME" : "k",
+			"TYPE" : "slider smooth",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.5,
+			"DESCRIPTION" : "",
+			"MAX" : 1,
+			"MIN" : 0,
+			"NAME" : "h",
+			"TYPE" : "slider smooth",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.5,
+			"DESCRIPTION" : "",
+			"MAX" : 1,
+			"MIN" : 0,
+			"NAME" : "j",
+			"TYPE" : "slider smooth",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.632,
+			"DESCRIPTION" : "",
+			"MAX" : 0.999,
+			"MIN" : 0.001,
+			"NAME" : "c",
+			"TYPE" : "slider smooth",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.131,
+			"DESCRIPTION" : "",
+			"MAX" : 0.999,
+			"MIN" : 0.001,
+			"NAME" : "s",
+			"TYPE" : "slider smooth",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.3,
+			"DESCRIPTION" : "",
+			"MAX" : 0.999,
+			"MIN" : 0.001,
+			"NAME" : "e",
+			"TYPE" : "slider smooth",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.17,
+			"DESCRIPTION" : "",
+			"MAX" : 0.999,
+			"MIN" : 0.001,
+			"NAME" : "u",
+			"TYPE" : "slider smooth",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.3,
+			"DESCRIPTION" : "",
+			"MAX" : 0.999,
+			"MIN" : 0.001,
+			"NAME" : "m",
+			"TYPE" : "slider smooth",
+			"UI_GROUP" : "ungrouped"
+		}
+	],
+	"CREDIT" : "by echophons",
+	"DESCRIPTION" : "",
+	"GPU" : 0,
+	"HEIGHT" : 1080,
+	"IMAGE_PATH" : "tapestry_fract_+.png",
+	"TITLE" : "Tapestry Fract +",
+	"WIDTH" : 1920
+}

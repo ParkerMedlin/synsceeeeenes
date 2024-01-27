@@ -1,0 +1,30 @@
+{
+	"CONTROLS" : 
+	[
+		{
+			"DEFAULT" : 0.025,
+			"DESCRIPTION" : "",
+			"MAX" : 0.2,
+			"MIN" : 0.01,
+			"NAME" : "rot_speed",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0,
+			"DESCRIPTION" : "",
+			"MAX" : 1,
+			"MIN" : 0,
+			"NAME" : "rot_offset",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		}
+	],
+	"CREDIT" : "by joshpbatty",
+	"DESCRIPTION" : "",
+	"GPU" : 0,
+	"HEIGHT" : 1080,
+	"IMAGE_PATH" : "squaretunnel.png",
+	"TITLE" : "Square Tunnel",
+	"WIDTH" : 1920
+}

@@ -1,0 +1,66 @@
+{
+	"CONTROLS" : 
+	[
+		{
+			"DEFAULT" : 1.5,
+			"DESCRIPTION" : "",
+			"MAX" : 5,
+			"MIN" : 0.25,
+			"NAME" : "scale",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.5,
+			"DESCRIPTION" : "",
+			"MAX" : 2,
+			"MIN" : -2,
+			"NAME" : "rate",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 7,
+			"DESCRIPTION" : "",
+			"MAX" : 16,
+			"MIN" : 1,
+			"NAME" : "loops",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.5,
+			"DESCRIPTION" : "",
+			"MAX" : 0.999,
+			"MIN" : 0.001,
+			"NAME" : "phase",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0,
+			"DESCRIPTION" : "",
+			"MAX" : 1,
+			"MIN" : 0,
+			"NAME" : "rot_bool",
+			"TYPE" : "toggle",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 1,
+			"DESCRIPTION" : "",
+			"MAX" : 1,
+			"MIN" : 0,
+			"NAME" : "sparse_bool",
+			"TYPE" : "toggle",
+			"UI_GROUP" : "ungrouped"
+		}
+	],
+	"CREDIT" : "by mojovideotech",
+	"DESCRIPTION" : "based on http://glslsandbox.com/e#42684.2",
+	"GPU" : 0,
+	"HEIGHT" : 1080,
+	"IMAGE_PATH" : "twisty_colored_bars.png",
+	"TITLE" : "TwistyColoredBars",
+	"WIDTH" : 1920
+}

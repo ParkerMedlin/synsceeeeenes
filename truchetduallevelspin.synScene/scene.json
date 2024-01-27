@@ -1,0 +1,150 @@
+{
+	"CONTROLS" : 
+	[
+		{
+			"DEFAULT" : 
+			[
+				0.2,
+				0.2
+			],
+			"DESCRIPTION" : "",
+			"MAX" : 
+			[
+				1,
+				1
+			],
+			"MIN" : 
+			[
+				0,
+				0
+			],
+			"NAME" : "spin",
+			"TYPE" : "xy",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 91.45,
+			"DESCRIPTION" : "",
+			"MAX" : 433,
+			"MIN" : 11,
+			"NAME" : "seedX",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 243.21,
+			"DESCRIPTION" : "",
+			"MAX" : 439,
+			"MIN" : 17,
+			"NAME" : "seedY",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 6,
+			"DESCRIPTION" : "",
+			"MAX" : 10,
+			"MIN" : 0.1,
+			"NAME" : "grid",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.85,
+			"DESCRIPTION" : "",
+			"MAX" : 1,
+			"MIN" : 0,
+			"NAME" : "spotlight",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 7.5,
+			"DESCRIPTION" : "",
+			"MAX" : 12,
+			"MIN" : 1,
+			"NAME" : "edge",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 21,
+			"DESCRIPTION" : "",
+			"MAX" : 24,
+			"MIN" : 1,
+			"NAME" : "glow",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.3,
+			"DESCRIPTION" : "",
+			"MAX" : 0.5,
+			"MIN" : 0,
+			"NAME" : "fill",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.99,
+			"DESCRIPTION" : "",
+			"MAX" : 1,
+			"MIN" : 0.9,
+			"NAME" : "freq",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 1.3,
+			"DESCRIPTION" : "",
+			"MAX" : 2,
+			"MIN" : 0.5,
+			"NAME" : "pulse",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 1.5,
+			"DESCRIPTION" : "",
+			"MAX" : 5,
+			"MIN" : 0.1,
+			"NAME" : "pulserate",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 1.2,
+			"DESCRIPTION" : "",
+			"MAX" : 5,
+			"MIN" : -5,
+			"NAME" : "thickness",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.3,
+			"DESCRIPTION" : "",
+			"MAX" : 1,
+			"MIN" : 0.01,
+			"NAME" : "scale",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 3,
+			"DESCRIPTION" : "",
+			"MAX" : 5,
+			"MIN" : 1,
+			"NAME" : "rate",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		}
+	],
+	"CREDIT" : "by mojovideotech",
+	"DESCRIPTION" : "",
+	"GPU" : 0,
+	"HEIGHT" : 1080,
+	"IMAGE_PATH" : "truchet_duallevelspin.png",
+	"TITLE" : "TruchetDualLevelSpin",
+	"WIDTH" : 1920
+}

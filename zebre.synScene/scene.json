@@ -1,0 +1,159 @@
+{
+	"CONTROLS" : 
+	[
+		{
+			"DEFAULT" : 2,
+			"DESCRIPTION" : "",
+			"MAX" : 10,
+			"MIN" : 0.0005,
+			"NAME" : "lineScale",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 2,
+			"DESCRIPTION" : "",
+			"MAX" : 200,
+			"MIN" : 0,
+			"NAME" : "harmonic",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.5,
+			"DESCRIPTION" : "",
+			"MAX" : 100,
+			"MIN" : 0,
+			"NAME" : "lineOffsetSpeed",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 1.5,
+			"DESCRIPTION" : "",
+			"MAX" : 10,
+			"MIN" : 0.1,
+			"NAME" : "brightness",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0,
+			"DESCRIPTION" : "",
+			"MAX" : 0.5,
+			"MIN" : 0,
+			"NAME" : "contrast",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0,
+			"DESCRIPTION" : "",
+			"MAX" : 0.5,
+			"MIN" : -0.5,
+			"NAME" : "contrastShift",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 43759,
+			"DESCRIPTION" : "",
+			"MAX" : 50000,
+			"MIN" : 0,
+			"NAME" : "randomMultiply",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 
+			[
+				12.99,
+				12.99
+			],
+			"DESCRIPTION" : "",
+			"MAX" : 
+			[
+				100,
+				100
+			],
+			"MIN" : 
+			[
+				0,
+				0
+			],
+			"NAME" : "randomAmt",
+			"TYPE" : "xy",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 
+			[
+				0.5,
+				0.5
+			],
+			"DESCRIPTION" : "",
+			"MAX" : 
+			[
+				1,
+				1
+			],
+			"MIN" : 
+			[
+				0,
+				0
+			],
+			"NAME" : "origin",
+			"TYPE" : "xy",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 
+			[
+				6,
+				6
+			],
+			"DESCRIPTION" : "",
+			"MAX" : 
+			[
+				100,
+				100
+			],
+			"MIN" : 
+			[
+				0,
+				0
+			],
+			"NAME" : "xyStretch",
+			"TYPE" : "xy",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 
+			[
+				10,
+				10
+			],
+			"DESCRIPTION" : "",
+			"MAX" : 
+			[
+				100,
+				100
+			],
+			"MIN" : 
+			[
+				0,
+				0
+			],
+			"NAME" : "xyNoiseFactor",
+			"TYPE" : "xy",
+			"UI_GROUP" : "ungrouped"
+		}
+	],
+	"CREDIT" : "Joseph Fiola",
+	"DESCRIPTION" : "",
+	"GPU" : 0,
+	"HEIGHT" : 1080,
+	"IMAGE_PATH" : "zebr.png",
+	"TITLE" : "Zebre",
+	"WIDTH" : 1920
+}

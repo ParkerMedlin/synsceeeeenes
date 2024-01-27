@@ -1,0 +1,150 @@
+{
+	"CONTROLS" : 
+	[
+		{
+			"DEFAULT" : 
+			[
+				45,
+				45
+			],
+			"DESCRIPTION" : "",
+			"MAX" : 
+			[
+				50,
+				50
+			],
+			"MIN" : 
+			[
+				6,
+				6
+			],
+			"NAME" : "grid",
+			"TYPE" : "xy",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 
+			[
+				6,
+				6
+			],
+			"DESCRIPTION" : "",
+			"MAX" : 
+			[
+				50,
+				50
+			],
+			"MIN" : 
+			[
+				6,
+				6
+			],
+			"NAME" : "grid2",
+			"TYPE" : "xy",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 
+			[
+				0,
+				0
+			],
+			"DESCRIPTION" : "",
+			"MAX" : 
+			[
+				1,
+				1
+			],
+			"MIN" : 
+			[
+				-1,
+				-1
+			],
+			"NAME" : "center",
+			"TYPE" : "xy",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 
+			[
+				0,
+				0
+			],
+			"DESCRIPTION" : "",
+			"MAX" : 
+			[
+				1,
+				1
+			],
+			"MIN" : 
+			[
+				0,
+				0
+			],
+			"NAME" : "curve",
+			"TYPE" : "xy",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.2,
+			"DESCRIPTION" : "",
+			"MAX" : 1,
+			"MIN" : 0,
+			"NAME" : "shift",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 270,
+			"DESCRIPTION" : "",
+			"MAX" : 1800,
+			"MIN" : -900,
+			"NAME" : "density",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : -0.05,
+			"DESCRIPTION" : "",
+			"MAX" : 3,
+			"MIN" : -3,
+			"NAME" : "rate",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 71.34,
+			"DESCRIPTION" : "",
+			"MAX" : 233,
+			"MIN" : 8,
+			"NAME" : "seed",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : -0.05,
+			"DESCRIPTION" : "",
+			"MAX" : 10,
+			"MIN" : -0.051,
+			"NAME" : "offset",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0,
+			"DESCRIPTION" : "",
+			"MAX" : 1,
+			"MIN" : 0,
+			"NAME" : "polar_on_bool",
+			"TYPE" : "toggle",
+			"UI_GROUP" : "ungrouped"
+		}
+	],
+	"CREDIT" : "AxiomCrux.net",
+	"DESCRIPTION" : "Data Patterns",
+	"GPU" : 0,
+	"HEIGHT" : 1080,
+	"IMAGE_PATH" : "pattern_datablocks.png",
+	"TITLE" : "Pattern_DataBlocks_03",
+	"WIDTH" : 1920
+}

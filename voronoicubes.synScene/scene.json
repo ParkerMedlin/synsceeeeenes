@@ -1,0 +1,105 @@
+{
+	"CONTROLS" : 
+	[
+		{
+			"DEFAULT" : 
+			[
+				40,
+				40
+			],
+			"DESCRIPTION" : "",
+			"MAX" : 
+			[
+				500,
+				500
+			],
+			"MIN" : 
+			[
+				1,
+				1
+			],
+			"NAME" : "scramble",
+			"TYPE" : "xy",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 155,
+			"DESCRIPTION" : "",
+			"MAX" : 233,
+			"MIN" : 34,
+			"NAME" : "seed1",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 377,
+			"DESCRIPTION" : "",
+			"MAX" : 987,
+			"MIN" : 89,
+			"NAME" : "seed2",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 10,
+			"DESCRIPTION" : "",
+			"MAX" : 20,
+			"MIN" : 0,
+			"NAME" : "scale",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 1,
+			"DESCRIPTION" : "",
+			"MAX" : 3,
+			"MIN" : 0.1,
+			"NAME" : "rate",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 2,
+			"DESCRIPTION" : "",
+			"MAX" : 3,
+			"MIN" : 0,
+			"NAME" : "C",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 1,
+			"DESCRIPTION" : "",
+			"MAX" : 3,
+			"MIN" : 0,
+			"NAME" : "M",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.5,
+			"DESCRIPTION" : "",
+			"MAX" : 3,
+			"MIN" : 0,
+			"NAME" : "Y",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 2.5,
+			"DESCRIPTION" : "",
+			"MAX" : 3,
+			"MIN" : 0,
+			"NAME" : "Sat",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		}
+	],
+	"CREDIT" : "by mojovideotech",
+	"DESCRIPTION" : "",
+	"GPU" : 0,
+	"HEIGHT" : 1080,
+	"IMAGE_PATH" : "voronoi_cubes.png",
+	"TITLE" : "VoronoiCubes",
+	"WIDTH" : 1920
+}
