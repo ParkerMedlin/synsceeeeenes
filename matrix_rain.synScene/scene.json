@@ -1,0 +1,37 @@
+{
+	"CONTROLS" : 
+	[
+		{
+			"DEFAULT" : 3,
+			"DESCRIPTION" : "",
+			"MAX" : 10,
+			"MIN" : 0.1,
+			"NAME" : "rainSpeed",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 3,
+			"DESCRIPTION" : "",
+			"MAX" : 9,
+			"MIN" : 0,
+			"NAME" : "DropSize",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		}
+	],
+	"CREDIT" : "by IMIMOT - ported from https://www.shadertoy.com/view/lsXSDn",
+	"DESCRIPTION" : "Matrix Rain",
+	"GPU" : 0,
+	"HEIGHT" : 1080,
+	"IMAGE_PATH" : "matrix_rain.png",
+	"MEDIA" : 
+	[
+		{
+			"FILTER" : "linear",
+			"WRAP" : "repeat"
+		}
+	],
+	"TITLE" : "Matrix Rain",
+	"WIDTH" : 1920
+}

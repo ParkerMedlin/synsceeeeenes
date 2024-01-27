@@ -1,0 +1,186 @@
+{
+	"CONTROLS" : 
+	[
+		{
+			"DEFAULT" : 0.5,
+			"DESCRIPTION" : "Mouse X",
+			"MAX" : 1,
+			"MIN" : 0,
+			"NAME" : "mX",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.5,
+			"DESCRIPTION" : "Mouse Y",
+			"MAX" : 1,
+			"MIN" : 0,
+			"NAME" : "mY",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.67,
+			"DESCRIPTION" : "formuparam",
+			"MAX" : 1,
+			"MIN" : 0,
+			"NAME" : "formuparam",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.12,
+			"DESCRIPTION" : "stepsize",
+			"MAX" : 1,
+			"MIN" : 0,
+			"NAME" : "stepsize",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 9,
+			"DESCRIPTION" : "Iterations",
+			"MAX" : 20,
+			"MIN" : 1,
+			"NAME" : "IterationLimit",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 14,
+			"DESCRIPTION" : "StepsLimit",
+			"MAX" : 20,
+			"MIN" : 1,
+			"NAME" : "StepsLimit",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 5.71,
+			"DESCRIPTION" : "zoom",
+			"MAX" : 100,
+			"MIN" : 0,
+			"NAME" : "zoom",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 1.27,
+			"DESCRIPTION" : "tile",
+			"MAX" : 10,
+			"MIN" : 0,
+			"NAME" : "tile",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.01,
+			"DESCRIPTION" : "speed",
+			"MAX" : 1,
+			"MIN" : 0,
+			"NAME" : "speed",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0,
+			"DESCRIPTION" : "XM",
+			"MAX" : 1,
+			"MIN" : -1,
+			"NAME" : "XM",
+			"PARAMS" : 0.274,
+			"TYPE" : "slider smooth",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0,
+			"DESCRIPTION" : "YM",
+			"MAX" : 1,
+			"MIN" : -1,
+			"NAME" : "YM",
+			"PARAMS" : 0.272,
+			"TYPE" : "slider smooth",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0,
+			"DESCRIPTION" : "ZM",
+			"MAX" : 1,
+			"MIN" : -1,
+			"NAME" : "ZM",
+			"PARAMS" : 0.013,
+			"TYPE" : "slider smooth",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.08,
+			"DESCRIPTION" : "brightness",
+			"MAX" : 1,
+			"MIN" : 0,
+			"NAME" : "brightness",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.41,
+			"DESCRIPTION" : "darkmatter",
+			"MAX" : 1,
+			"MIN" : 0,
+			"NAME" : "darkmatter",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.64,
+			"DESCRIPTION" : "distfading",
+			"MAX" : 1,
+			"MIN" : 0,
+			"NAME" : "distfading",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.85,
+			"DESCRIPTION" : "saturation",
+			"MAX" : 1,
+			"MIN" : 0,
+			"NAME" : "saturation",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 1,
+			"DESCRIPTION" : "",
+			"MAX" : 5,
+			"MIN" : 1,
+			"NAME" : "sBassX",
+			"PARAMS" : 0.286,
+			"TYPE" : "slider smooth",
+			"UI_GROUP" : "default"
+		},
+		{
+			"DEFAULT" : 1,
+			"DESCRIPTION" : "",
+			"MAX" : 5,
+			"MIN" : 1,
+			"NAME" : "sBassY",
+			"PARAMS" : 0.246,
+			"TYPE" : "slider smooth",
+			"UI_GROUP" : "default"
+		}
+	],
+	"CREDIT" : "by you",
+	"DESCRIPTION" : "Your shader description",
+	"GPU" : 0,
+	"HEIGHT" : 1080,
+	"IMAGE_PATH" : "deep_field_star_nest.png",
+	"MEDIA" : 
+	[
+		{
+			"FILTER" : "linear",
+			"WRAP" : "repeat"
+		}
+	],
+	"TITLE" : "Deep Field Star Nest",
+	"WIDTH" : 1920
+}

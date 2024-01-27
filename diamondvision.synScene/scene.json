@@ -1,0 +1,80 @@
+{
+	"CONTROLS" : 
+	[
+		{
+			"DEFAULT" : 0.1,
+			"DESCRIPTION" : "Speed",
+			"MAX" : 1,
+			"MIN" : -1,
+			"NAME" : "Speed",
+			"PARAMS" : 0.184,
+			"TYPE" : "slider smooth",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 1,
+			"DESCRIPTION" : "rotation one",
+			"MAX" : 1,
+			"MIN" : 0,
+			"NAME" : "GRAT",
+			"PARAMS" : 0.248,
+			"TYPE" : "slider smooth",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 1,
+			"DESCRIPTION" : "Ray tracing amount",
+			"MAX" : 2,
+			"MIN" : -0.001,
+			"NAME" : "W",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0,
+			"DESCRIPTION" : "Shine",
+			"MAX" : 0,
+			"MIN" : -1,
+			"NAME" : "Ty",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 1,
+			"DESCRIPTION" : "Rotation of Torus",
+			"MAX" : 1,
+			"MIN" : 0,
+			"NAME" : "Rot",
+			"PARAMS" : 0.161,
+			"TYPE" : "slider smooth",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 1,
+			"DESCRIPTION" : "",
+			"MAX" : 2,
+			"MIN" : -1,
+			"NAME" : "Rat",
+			"PARAMS" : 0.158,
+			"TYPE" : "slider smooth",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 1,
+			"DESCRIPTION" : "Amount of Toruses",
+			"MAX" : 1.3,
+			"MIN" : 0.5,
+			"NAME" : "Bat",
+			"PARAMS" : 0.198,
+			"TYPE" : "slider smooth",
+			"UI_GROUP" : "ungrouped"
+		}
+	],
+	"CREDIT" : "by mojovideotech",
+	"DESCRIPTION" : "",
+	"GPU" : 0,
+	"HEIGHT" : 1080,
+	"IMAGE_PATH" : "diamond_vision.png",
+	"TITLE" : "DiamondVision",
+	"WIDTH" : 1920
+}

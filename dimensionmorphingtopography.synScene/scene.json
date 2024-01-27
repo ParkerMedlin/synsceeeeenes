@@ -1,0 +1,126 @@
+{
+	"CONTROLS" : 
+	[
+		{
+			"DEFAULT" : 0,
+			"DESCRIPTION" : "",
+			"MAX" : 3.1459,
+			"MIN" : -3.1459,
+			"NAME" : "rX",
+			"PARAMS" : 0.155,
+			"TYPE" : "slider smooth",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0,
+			"DESCRIPTION" : "",
+			"MAX" : 3.1459,
+			"MIN" : -3.1459,
+			"NAME" : "rY",
+			"PARAMS" : 0.145,
+			"TYPE" : "slider smooth",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0,
+			"DESCRIPTION" : "",
+			"MAX" : 3.1459,
+			"MIN" : -3.1459,
+			"NAME" : "rZ",
+			"PARAMS" : 0.142,
+			"TYPE" : "slider smooth",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 2.25,
+			"DESCRIPTION" : "",
+			"MAX" : 5,
+			"MIN" : 1,
+			"NAME" : "zoom",
+			"PARAMS" : 0.125,
+			"TYPE" : "slider smooth",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 
+			[
+				0,
+				0
+			],
+			"DESCRIPTION" : "",
+			"MAX" : 
+			[
+				1,
+				1
+			],
+			"MIN" : 
+			[
+				-1,
+				-1
+			],
+			"NAME" : "blend",
+			"TYPE" : "xy",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 4,
+			"DESCRIPTION" : "",
+			"MAX" : 6,
+			"MIN" : 1,
+			"NAME" : "subdivisions",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 12.5,
+			"DESCRIPTION" : "",
+			"MAX" : 30,
+			"MIN" : 0,
+			"NAME" : "light",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 2.5,
+			"DESCRIPTION" : "",
+			"MAX" : 3,
+			"MIN" : 0,
+			"NAME" : "rate",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.75,
+			"DESCRIPTION" : "",
+			"MAX" : 3,
+			"MIN" : 0,
+			"NAME" : "cycle",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 0.25,
+			"DESCRIPTION" : "",
+			"MAX" : 2,
+			"MIN" : 0,
+			"NAME" : "roto",
+			"PARAMS" : 0.223,
+			"TYPE" : "slider smooth",
+			"UI_GROUP" : "ungrouped"
+		}
+	],
+	"CREDIT" : "by mojovideotech",
+	"DESCRIPTION" : "",
+	"GPU" : 0,
+	"HEIGHT" : 1080,
+	"IMAGE_PATH" : "dimensionmorphingtopography.png",
+	"MEDIA" : 
+	[
+		{
+			"FILTER" : "linear",
+			"WRAP" : "repeat"
+		}
+	],
+	"TITLE" : "DimensionMorphingTopography",
+	"WIDTH" : 1920
+}

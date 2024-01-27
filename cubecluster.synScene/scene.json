@@ -1,0 +1,30 @@
+{
+	"CONTROLS" : 
+	[
+		{
+			"DEFAULT" : 0.5,
+			"DESCRIPTION" : "",
+			"MAX" : 2,
+			"MIN" : -2,
+			"NAME" : "rate",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		},
+		{
+			"DEFAULT" : 1,
+			"DESCRIPTION" : "how many cubes",
+			"MAX" : 20,
+			"MIN" : 1,
+			"NAME" : "cluster_number",
+			"TYPE" : "slider",
+			"UI_GROUP" : "default"
+		}
+	],
+	"CREDIT" : "by mojovideotech",
+	"DESCRIPTION" : "wip based on glslsandbox.com/e#31945.2",
+	"GPU" : 0,
+	"HEIGHT" : 1080,
+	"IMAGE_PATH" : "cube_cluster.png",
+	"TITLE" : "CubeCluster",
+	"WIDTH" : 1920
+}

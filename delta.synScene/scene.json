@@ -1,0 +1,39 @@
+{
+	"CONTROLS" : 
+	[
+		{
+			"DEFAULT" : 0.2,
+			"DESCRIPTION" : "A slider.",
+			"MAX" : 1,
+			"MIN" : 0,
+			"NAME" : "slider1",
+			"TYPE" : "slider",
+			"UI_GROUP" : "default"
+		}
+	],
+	"CREDIT" : "MKGartner",
+	"DESCRIPTION" : "",
+	"GPU" : 0,
+	"HEIGHT" : 1080,
+	"IMAGE_PATH" : "delta.png",
+	"MEDIA" : 
+	[
+		{
+			"FILTER" : "nearest",
+			"WRAP" : "repeat"
+		}
+	],
+	"PASSES" : 
+	[
+		{
+			"FILTER" : "linear",
+			"FLOAT" : true,
+			"HEIGHT" : 0,
+			"TARGET" : "firstFB",
+			"WIDTH" : 0,
+			"WRAP" : "repeat"
+		}
+	],
+	"TITLE" : "Delta",
+	"WIDTH" : 1920
+}

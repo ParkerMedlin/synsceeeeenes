@@ -1,0 +1,34 @@
+{
+	"CONTROLS" : 
+	[
+		{
+			"DEFAULT" : 
+			[
+				0.5,
+				0.5
+			],
+			"DESCRIPTION" : "",
+			"MAX" : 
+			[
+				1,
+				1
+			],
+			"MIN" : 
+			[
+				0,
+				0
+			],
+			"NAME" : "mouse",
+			"PARAMS" : 0.01,
+			"TYPE" : "xy smooth",
+			"UI_GROUP" : "ungrouped"
+		}
+	],
+	"CREDIT" : "by mojovideotech",
+	"DESCRIPTION" : "Automatically converted from http://glslsandbox.com/e#897.0",
+	"GPU" : 0,
+	"HEIGHT" : 1080,
+	"IMAGE_PATH" : "cubes+spheres.png",
+	"TITLE" : "Cubes+Spheres",
+	"WIDTH" : 1920
+}
