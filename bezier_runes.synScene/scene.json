@@ -1,0 +1,9 @@
+{
+	"CREDIT" : "cmzw",
+	"DESCRIPTION" : "Based on runes from [url]https://www.shadertoy.com/view/MsXSRn[/url] but replacing line segments with beziers",
+	"GPU" : 0,
+	"HEIGHT" : 720,
+	"IMAGE_PATH" : "bezier_runes.png",
+	"TITLE" : "Bezier Runes",
+	"WIDTH" : 1280
+}

@@ -1,0 +1,21 @@
+{
+	"CONTROLS" : 
+	[
+		{
+			"DEFAULT" : 0,
+			"DESCRIPTION" : "",
+			"MAX" : 1,
+			"MIN" : 0,
+			"NAME" : "amount",
+			"TYPE" : "slider",
+			"UI_GROUP" : "ungrouped"
+		}
+	],
+	"CREDIT" : "by IMIMOT (Ported from https://www.shadertoy.com/view/lssGDj)",
+	"DESCRIPTION" : "ASCII Art",
+	"GPU" : 0,
+	"HEIGHT" : 1080,
+	"IMAGE_PATH" : "ascii_artt.png",
+	"TITLE" : "ASCII Art",
+	"WIDTH" : 1920
+}
